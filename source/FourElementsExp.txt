@@ -1,0 +1,46 @@
+0:a=3
+1:b=3
+2:T0=a>3
+3: T0 true goto 5
+4: goto 5
+5:T1=a<5
+6: T1 true goto 8
+7: goto 40
+8:T2=a+1
+9:a=T2
+10:j=0
+11:T3=j<3
+12: T3 true goto 17
+13: goto 20
+14:T4=j+1
+15:j=T4
+16: goto 11
+17:T5=b*5
+18:b=T5
+19:goto 14
+20:T6=a>8
+21: T6 true goto 23
+22: goto 25
+23:T7=a+1
+24:b=T7
+25:T8=b<30
+26: T8 true goto 28
+27: goto 39
+28:T9=a*b
+29:a=T9
+30:k=0
+31:T10=k<4
+32: T10 true goto 37
+33: goto 38
+34:T11=k+1
+35:k=T11
+36: goto 31
+37:goto 34
+38:goto 25
+39:goto 5
+40:T12=a==b
+41: T12 true goto 43
+42: goto 45
+43:T13=a*a
+44:a=T13
+45:return 

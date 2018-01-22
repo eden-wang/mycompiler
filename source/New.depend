@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1402235454 source:c:\users\administrator\desktop\practice\complier_word\wordsanalysis.cpp
+	"a_word.h"
+	"a.h"
+	<math.h>
+
+1401700684 c:\users\administrator\desktop\practice\complier_word\a_word.h
+	<iostream>
+	<string>
+	<fstream>
+	<IOMANIP>
+	<stdlib.h>
+	<sstream>
+	<vector>
+
+1403701476 c:\users\administrator\desktop\practice\complier_word\a.h
+	<string>
+	<iomanip>
+	<vector>
+	<stack>
+
+1401700664 source:c:\users\administrator\desktop\practice\complier_word\wordsanalysisextern.cpp
+	"a_word.h"
+	"a.h"
+
+1404047013 source:c:\users\administrator\desktop\practice\complier_word\interior.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stack>
+	"a_word.h"
+	"a.h"
+	"out.cpp"
+
+1401699004 c:\users\administrator\desktop\practice\complier_word\out.cpp
+	<iostream>
+	"a_word.h"
+	"a.h"
+
+1401699004 source:c:\users\administrator\desktop\practice\complier_word\out.cpp
+	<iostream>
+	"a_word.h"
+	"a.h"
+
+1403569340 source:c:\users\administrator\desktop\practice\complier_word\ll(1).cpp
+
+1404108992 source:c:\users\administrator\desktop\practice\complier_word\main.cpp
+
+1404108992 source:c:\users\administrator\desktop\practice\new\main.cpp
+	"a_word.h"
+	"a.h"
+
+1401700684 c:\users\administrator\desktop\practice\new\a_word.h
+	<iostream>
+	<string>
+	<fstream>
+	<IOMANIP>
+	<stdlib.h>
+	<sstream>
+	<vector>
+
+1403701476 c:\users\administrator\desktop\practice\new\a.h
+	<string>
+	<iomanip>
+	<vector>
+	<stack>
+

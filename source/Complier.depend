@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1401700664 source:c:\users\administrator\desktop\源代码\wordsanalysisextern.cpp
+	"a_word.h"
+	"a.h"
+
+1401700684 c:\users\administrator\desktop\源代码\a_word.h
+	<iostream>
+	<string>
+	<fstream>
+	<IOMANIP>
+	<stdlib.h>
+	<sstream>
+	<vector>
+
+1403701476 c:\users\administrator\desktop\源代码\a.h
+	<string>
+	<iomanip>
+	<vector>
+	<stack>
+
+1404107996 source:c:\users\administrator\desktop\源代码\interior.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stack>
+	"a_word.h"
+	"a.h"
+
+1401699004 c:\users\administrator\desktop\源代码\out.cpp
+	<iostream>
+	"a_word.h"
+	"a.h"
+
+1404108992 source:c:\users\administrator\desktop\源代码\main.cpp
+	"a_word.h"
+	"a.h"
+
+1402235454 source:c:\users\administrator\desktop\源代码\wordsanalysis.cpp
+	"a_word.h"
+	"a.h"
+	<math.h>
+
+1401700664 source:c:\users\administrator\desktop\编译程序报告\源代码\wordsanalysisextern.cpp
+	"a_word.h"
+	"a.h"
+
+1401700684 c:\users\administrator\desktop\编译程序报告\源代码\a_word.h
+	<iostream>
+	<string>
+	<fstream>
+	<IOMANIP>
+	<stdlib.h>
+	<sstream>
+	<vector>
+
+1403701476 c:\users\administrator\desktop\编译程序报告\源代码\a.h
+	<string>
+	<iomanip>
+	<vector>
+	<stack>
+
+1404107996 source:c:\users\administrator\desktop\编译程序报告\源代码\interior.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stack>
+	"a_word.h"
+	"a.h"
+
+1401699004 c:\users\administrator\desktop\编译程序报告\源代码\out.cpp
+	<iostream>
+	"a_word.h"
+	"a.h"
+
+1404108992 source:c:\users\administrator\desktop\编译程序报告\源代码\main.cpp
+	"a_word.h"
+	"a.h"
+
+1402235454 source:c:\users\administrator\desktop\编译程序报告\源代码\wordsanalysis.cpp
+	"a_word.h"
+	"a.h"
+	<math.h>
+

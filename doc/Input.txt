@@ -1,0 +1,38 @@
+void main()
+{
+    int a,int b,int i,int j,int k;
+	a=3,b=3;
+	if(a>3){}
+	 ,
+	while(a<5)
+    {
+	    
+		a=a+1;
+		for(j=0;j<3;j=j+1)
+		{
+			b=b*5;
+		}
+		,
+		if(a>8)
+		{
+			b=a+1;
+		}
+		,	
+		while(b<30)
+		{
+		   
+			a=a*b;
+			for(k=0;k<4;k=k+1)
+			{
+			    
+			}
+		}
+	
+	}
+	,
+	if(a==b)
+	{
+		a=a*a;
+	}
+}	
+#

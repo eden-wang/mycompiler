@@ -1,0 +1,6 @@
+ID                       value                    IDInMainTable
+1                        a                        7
+2                        b                        10
+3                        i                        13
+4                        j                        16
+5                        k                        19

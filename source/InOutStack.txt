@@ -1,0 +1,464 @@
+#      voidmain(){inti,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#void      main(){inti,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain      (){inti,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(      ){inti,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain()      {inti,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){      inti,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){int      i,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N      i,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){Ni      ,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N      ,inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,      inti,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,int      i,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N      i,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,Ni      ,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N      ,inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,      inti,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,int      i,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N      i,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,Ni      ,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N      ,inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,      inti,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,int      i,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N      i,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,Ni      ,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N      ,inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N,      inti;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N,int      i;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N,N      i;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N,Ni      ;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N,N      ;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N,N      ;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N,N      ;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N,N      ;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N      ;i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;      i=id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;i      =id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;i=      id,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;i=id      ,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;i=N      ,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N      ,i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N,      i=id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N,i      =id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N,i=      id;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N,i=id      ;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N,i=N      ;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N,N      ;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N      ;if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;      if(i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if      (i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(      i>id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(i      >id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N      >id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N>      id){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N>id      ){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N>N      ){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N      ){},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N)      {},while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N){      },while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N){}      ,while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;if(N)N      ,while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N      ,while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,      while(i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while      (i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(      i<id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(i      <id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N      <id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N<      id){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N<id      ){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N<N      ){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N      ){i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N)      {i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){      i=i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i      =i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i=      i+id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i=i      +id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i=N      +id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i=N+      id;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i=N+id      ;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i=N+N      ;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){i=N      ;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N      ;for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;      for(i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for      (i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(      i=id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(i      =id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(i=      id;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(i=id      ;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(i=N      ;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N      ;i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;      i<id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;i      <id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N      <id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N<      id;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N<id      ;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N<N      ;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N      ;i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;      i=i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i      =i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i=      i+id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i=i      +id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i=N      +id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i=N+      id){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i=N+id      ){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i=N+N      ){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;i=N      ){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N      ){i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N)      {i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){      i=i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i      =i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i=      i*id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i=i      *id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i=N      *id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i=N*      id;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i=N*id      ;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i=N*N      ;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){i=N      ;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){N      ;},if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){N;      },if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N){N;}      ,if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;for(N;N;N)N      ,if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N      ,if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,      if(i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if      (i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(      i>id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(i      >id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N      >id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N>      id){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N>id      ){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N>N      ){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N      ){i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N)      {i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){      i=i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i      =i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i=      i+id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i=i      +id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i=N      +id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i=N+      id;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i=N+id      ;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i=N+N      ;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){i=N      ;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){N      ;},while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){N;      },while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N){N;}      ,while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,if(N)N      ,while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N      ,while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,      while(i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while      (i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(      i<id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(i      <id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N      <id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N<      id){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N<id      ){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N<N      ){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N      ){i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N)      {i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){      i=i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i      =i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i=      i*i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i=i      *i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i=N      *i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i=N*      i;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i=N*i      ;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i=N*N      ;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){i=N      ;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N      ;for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;      for(i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for      (i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(      i=id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(i      =id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(i=      id;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(i=id      ;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(i=N      ;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N      ;i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;      i<id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;i      <id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N      <id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N<      id;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N<id      ;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N<N      ;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N      ;i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;      i=i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i      =i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i=      i+id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i=i      +id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i=N      +id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i=N+      id){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i=N+id      ){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i=N+N      ){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;i=N      ){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;N      ){}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;N)      {}}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;N){      }}},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;N){}      }},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;for(N;N;N)N      }},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;N      }},if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N){N;N}      },if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,while(N)N      },if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N,N      },if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N,N      },if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N      },if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N){N;N}      ,if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,while(N)N      ,if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,N      ,if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,N,      if(i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if      (i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(      i==i){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(i      ==i){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N      ==i){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N==      i){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N==i      ){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N==N      ){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N      ){i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N)      {i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N){      i=i*i;}}#
+
+#voidmain(){N;N;N,N,if(N){i      =i*i;}}#
+
+#voidmain(){N;N;N,N,if(N){i=      i*i;}}#
+
+#voidmain(){N;N;N,N,if(N){i=i      *i;}}#
+
+#voidmain(){N;N;N,N,if(N){i=N      *i;}}#
+
+#voidmain(){N;N;N,N,if(N){i=N*      i;}}#
+
+#voidmain(){N;N;N,N,if(N){i=N*i      ;}}#
+
+#voidmain(){N;N;N,N,if(N){i=N*N      ;}}#
+
+#voidmain(){N;N;N,N,if(N){i=N      ;}}#
+
+#voidmain(){N;N;N,N,if(N){N      ;}}#
+
+#voidmain(){N;N;N,N,if(N){N;      }}#
+
+#voidmain(){N;N;N,N,if(N){N;}      }#
+
+#voidmain(){N;N;N,N,if(N)N      }#
+
+#voidmain(){N;N;N,N,N      }#
+
+#voidmain(){N;N;N,N      }#
+
+#voidmain(){N;N;N      }#
+
+#voidmain(){N;N;N}      #
+
+#voidmain()N      #
+
+#N      #
+
